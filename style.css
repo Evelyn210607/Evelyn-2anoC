@@ -23,3 +23,10 @@ body {
             justify-content: space-around;
             padding: 24PX 0;
             }
+            .estudante-imagem{
+                width: 120px;
+                }
+                .estudante-icone{
+                    width:24px;
+                    }
+                
